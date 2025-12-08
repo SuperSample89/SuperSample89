@@ -8,6 +8,8 @@ My main tech stack is Python, Bash, YAML, HCL, JavaScript, TypeScript, Go, SQL, 
 
 
 
+
+
 ## Fun Facts:
 
 💬 I have a two dogs
