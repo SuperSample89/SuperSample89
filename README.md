@@ -11,7 +11,11 @@ My main tech stack is Python, Bash, YAML, HCL, JavaScript, TypeScript, Go, SQL, 
 ## Fun Facts:
 
 💬 I have a two dogs
+
 💬 I don't like tea
+
 💬 Breaking bad is my favorite movie
+
 💬 python is my favorite lang
+
 💬 Hobbies: movie, gym, video game
