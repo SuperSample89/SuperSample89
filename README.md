@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-i'm Amir, a cloud security based in Iran.
+i'm Amir, a full-stack developer based in Iran.
 
 if an a idead pops into my head, chances are i'll bulid it and ship it
 
-My main tech stack is Python, Bash, YAML, HCL, JavaScript, TypeScript, Go, SQL, Regex
+My main tech stack is Python, Bash, HTML, CSS, JavaScript, TypeScript, Dcker, SQL, PHP, node.js, React, LPIC-1
 
 
 
